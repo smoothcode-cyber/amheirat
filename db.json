@@ -1,0 +1,49 @@
+{
+  "ladies": [
+    {
+    "id": 1,
+    "username": "Svetlana",
+    "name": "Svetlana",
+    "img": "https://www.amor-heiratsbuero.de/data/uid1.jpg"
+    },
+    {
+    "id": 2,
+    "username": "Monika",
+    "name": "Monika",
+    "img": "https://www.amor-heiratsbuero.de/data/uid2.jpg"
+    },
+    {
+    "id": 3,
+    "username": "Monica",
+    "name": "Monica",
+    "img": "https://www.amor-heiratsbuero.de/data/uid3.png"
+    },
+    {
+    "id": 4,
+    "username": "Ruby",
+    "name": "Ruby",
+    "img": "https://www.amor-heiratsbuero.de/data/uid4.jpg"
+    }
+  ],
+  "posts": [
+    {      
+      "userId": 2,
+      "id": 1,
+      "title": "Interessen",
+      "body": "Lange Beziehungen mit Männern"
+    },
+    {      
+      "userId": 1,
+      "id": 2,
+      "title": "Interessen",
+      "body": "Lange Beziehungen mit Männern"
+    }
+  ],
+    "comments": [
+      {
+        "postId": 1,
+        "name": "Rating",
+        "body": "★★★★☆"
+      }
+  ]
+}
