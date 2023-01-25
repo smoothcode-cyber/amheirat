@@ -20,13 +20,6 @@
     "name": "Monica",
     "img": "https://www.amor-heiratsbuero.de/data/uid3.png",
     "gender": { "type": "lady" }
-    },
-    {
-    "id": 4,
-    "username": "Ruby",
-    "name": "Ruby",
-    "img": "https://www.amor-heiratsbuero.de/data/uid4.jpg",
-    "gender": { "type": "lady" }
     }
   ],
   "posts": [
@@ -40,7 +33,7 @@
       "userId": 1,
       "id": 2,
       "title": "Interessen",
-      "body": "Lange Beziehungen mit Männern"
+      "body": "Freundlich schauen"
     }
   ],
     "comments": [
