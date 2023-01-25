@@ -1,38 +1,42 @@
 {
-  "ladies": [
+  "users": [
     {
     "id": 1,
     "username": "Svetlana",
     "name": "Svetlana",
-    "img": "https://www.amor-heiratsbuero.de/data/uid1.jpg"
+    "img": "https://www.amor-heiratsbuero.de/data/uid1.jpg",
+    "gender": { "type": "lady" }
     },
     {
     "id": 2,
     "username": "Monika",
     "name": "Monika",
-    "img": "https://www.amor-heiratsbuero.de/data/uid2.jpg"
+    "img": "https://www.amor-heiratsbuero.de/data/uid2.jpg",
+    "gender": { "type": "lady" }
     },
     {
     "id": 3,
     "username": "Monica",
     "name": "Monica",
-    "img": "https://www.amor-heiratsbuero.de/data/uid3.png"
+    "img": "https://www.amor-heiratsbuero.de/data/uid3.png",
+    "gender": { "type": "lady" }
     },
     {
     "id": 4,
     "username": "Ruby",
     "name": "Ruby",
-    "img": "https://www.amor-heiratsbuero.de/data/uid4.jpg"
+    "img": "https://www.amor-heiratsbuero.de/data/uid4.jpg",
+    "gender": { "type": "lady" }
     }
   ],
   "posts": [
-    {      
+    {
       "userId": 2,
       "id": 1,
       "title": "Interessen",
       "body": "Lange Beziehungen mit Männern"
     },
-    {      
+    {
       "userId": 1,
       "id": 2,
       "title": "Interessen",
